@@ -105,3 +105,4 @@ venv.bak/
 csharp/LikePredictor/.vs/
 csharp/LikePredictor/GenerateDatasetApp/bin/
 csharp/LikePredictor/GenerateDatasetApp/obj/
+csharp/LikePredictor/packages/
